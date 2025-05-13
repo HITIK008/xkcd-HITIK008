@@ -1,0 +1,2 @@
+<h2>XKCD Comic</h2>
+                   <img src="https://imgs.xkcd.com/comics/christmas_gps.png" alt="XKCD Comic">
